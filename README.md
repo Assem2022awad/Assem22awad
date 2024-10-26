@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Assem Awad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=CTF+Player+on+TryHackMe;Graphic+Design;Entrepreneur;penetration+testing+;%60web+Development" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=CTF+Player+on+TryHackMe;Graphic+Design;Entrepreneur;penetration+testing+;web+Development" alt="Typing SVG" /></a>
 
 
 </p>
@@ -27,12 +27,12 @@
 <br><br>
 
 - :school: I am a `Junior` at [Faculty of Management and Information system] at [port said University](https://psu.edu.eg/en/home-en//).
-- :trophy: 2x `ACPC` Finalist.
+- :trophy: 3x `rally egypt` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a penetration testing at `ine', `hackerone`, `cybertalent`, `tryhackme`, `hackthbox`.
 - :student: I’m currently learning `penetration testing` and `web Development`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gP4BRpaAE7zybK_cF0-WpWUm7kRb19DG/view?usp=drive_link).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 
@@ -250,4 +250,6 @@
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 </p>
