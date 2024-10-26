@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Assem Awad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=30&duration=1000&color=F7D536&width=435&lines=CTF+Player+on+TryHackMe;Graphic+Design;Entrepreneur;penetration+testing+;%60web+Development" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=CTF+Player+on+TryHackMe;Graphic+Design;Entrepreneur;penetration+testing+;%60web+Development" alt="Typing SVG" /></a>
+
+
 </p>
-
-
 <br>
 
 <p align="center"> 
@@ -245,13 +245,6 @@
 </details>
 
 </br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
