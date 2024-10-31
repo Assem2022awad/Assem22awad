@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Assem Awad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=200&lines=CTF+Player+on+TryHackMe;Graphic+Design;Entrepreneur;penetration+testing+;web+Development" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=CTF+Player+on+TryHackMe;Graphic+Design;Entrepreneur;penetration+testing+;web+Development" alt="Typing SVG" /></a>
 
 
 </p>
