@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://iili.io/HG9Lsi7.gif"(https://freeimage.host/i/2nXXSzN)" width="80%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
+<h1 align="center"><img src="https://freeimage.host/i/2nXXSzN" width="80%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=CTF+Player+on+TryHackMe;Graphic+Design;Entrepreneur;penetration+testing+;web+Development" alt="Typing SVG" /></a>
 
