@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<h1 align="center">
 	<img src="https://github.com/Assem2022awad/Portfolio/blob/main/2024-10-31-HI-I-M-Assem-Awad%20(2).gif" width="33%" style="display: inline-block;">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" style="display: inline-block;">
 </div>
