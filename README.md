@@ -29,7 +29,7 @@
 - :school: I am a `Junior` at [Faculty of Management and Information system] at [port said University](https://psu.edu.eg/en/home-en//).
 - :trophy: 3x `rally egypt` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a penetration testing at `ine , `hackerone`, `cybertalent`, `tryhackme`, `hackthbox`.
+- :computer: I am a penetration testing at `hackerone`, `cybertalent`,`tryhackme`,`hackthbox`.
 - :student: I’m currently learning `penetration testing` and `web Development`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gP4BRpaAE7zybK_cF0-WpWUm7kRb19DG/view?usp=drive_link).
